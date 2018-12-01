@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# MLH Workshop
 
-Hello World. Today is the MLH day and we are going to make our first project in our first workhop!!
+![image]()
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Ladies and gentlmen, 
+  Welcome to the MLH workshop. We are so glad that you are here today.
+  
+In order to see the themes that we are going to present today, click the links below:
+[link](https://drive.google.com/drive/u/0/folders/1zpobkOxIgs_Uz6ZSHA3ptGryAR4-wV8K)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/270300/billaras-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  
+  
