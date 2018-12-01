@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/270300/billaras-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello World. Today is the MLH day and we are going to make our first project in our first workhop!!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
